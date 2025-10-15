@@ -15,7 +15,9 @@
 - Social media baffles me
 - Homelabbing is cool
 - Proton.me user
+- Poor memory
 - Still in school
+- NeoVim user
 - A Linux user
 - Dysgraphic
 - Dyscalculic

@@ -1,16 +1,24 @@
+# Ahem...
+<i>
+  <sup>
+    [insert clever joke here]
+  </sup>
+</i>
 
-
-<!--
-**Supraboy981322/Supraboy981322** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Programming as a hobby since middle-school
+- NRF Business Of Retail Certified Specialist
+- Bash is more powerful than people think
+- Started computer science in 9th grade
+- Proudly uses zero Apple products
+- Piracy can be a form of protest
+- Certified in Adobe Photoshop
+- Social media baffles me
+- Homelabbing is cool
+- Proton.me user
+- Still in school
+- A Linux user
+- Dysgraphic
+- Dyscalculic
+- Dyslexic
+- Autistic
+- ADHD

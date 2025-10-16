@@ -9,6 +9,7 @@
 - NRF Business Of Retail Certified Specialist
 - Bash is more powerful than people think
 - Started computer science in 9th grade
+- Scrolls GitHub instead of social media
 - Proudly uses zero Apple products
 - Piracy can be a form of protest
 - Certified in Adobe Photoshop

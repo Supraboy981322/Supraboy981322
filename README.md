@@ -13,6 +13,7 @@
 - Proudly uses zero Apple products
 - Piracy can be a form of protest
 - Certified in Adobe Photoshop
+- Has large backlog of projects
 - Social media baffles me
 - Homelabbing is cool
 - Proton.me user

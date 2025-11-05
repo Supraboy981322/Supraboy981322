@@ -21,6 +21,7 @@
 - Still in school
 - NeoVim user
 - A Linux user
+- NixOS user
 - Dysgraphic
 - Dyscalculic
 - Dyslexic

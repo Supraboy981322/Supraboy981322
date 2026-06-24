@@ -7,7 +7,6 @@
 
 - Programming as a hobby since middle-school
 - NRF Business Of Retail Certified Specialist
-- Bash is more powerful than people think
 - Started computer science in 9th grade
 - Scrolls GitHub instead of social media
 - Proudly uses zero Apple products

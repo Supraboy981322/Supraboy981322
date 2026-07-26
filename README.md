@@ -5,7 +5,7 @@
   </sup>
 </i>
 
-- Switch to Codeberg private repos for most (new) projects
+- Switched to Codeberg private repos for most (new) projects
 - Programming as a hobby since middle-school
 - NRF Business Of Retail Certified Specialist
 - Started computer science in 9th grade
